@@ -1,0 +1,10 @@
+F:\repos\Timetamp\Timetamp\Timetamp\bin\Debug\Timetamp.exe.config
+F:\repos\Timetamp\Timetamp\Timetamp\bin\Debug\Timetamp.exe
+F:\repos\Timetamp\Timetamp\Timetamp\bin\Debug\Timetamp.pdb
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.csproj.AssemblyReference.cache
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.Form1.resources
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.Properties.Resources.resources
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.csproj.GenerateResource.cache
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.csproj.CoreCompileInputs.cache
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.exe
+F:\repos\Timetamp\Timetamp\Timetamp\obj\Debug\Timetamp.pdb
